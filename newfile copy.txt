@@ -1,0 +1,12 @@
+USERNAME: my_username
+PASSWORD:
+
+password
+
+pwd
+password = 123
+
+
+password = "somefakekey"
+
+PASSWORD: "aijewga@#!%^ahgfdndbks211"
